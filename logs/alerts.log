@@ -1,0 +1,844 @@
+[2026-04-04 11:47:38] Unknown Attack (Anomaly) | 192.168.1.219 → 10.0.0.27 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:39] Unknown Attack (Anomaly) | 192.168.1.149 → 10.0.0.15 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:41] Unknown Attack (Anomaly) | 192.168.1.240 → 10.0.0.33 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:43] Unknown Attack (Anomaly) | 192.168.1.56 → 10.0.0.49 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:44] Unknown Attack (Anomaly) | 192.168.1.187 → 10.0.0.34 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:45] Unknown Attack (Anomaly) | 192.168.1.36 → 10.0.0.24 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:46] Unknown Attack (Anomaly) | 192.168.1.76 → 10.0.0.30 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:47] Unknown Attack (Anomaly) | 192.168.1.74 → 10.0.0.30 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:49] Unknown Attack (Anomaly) | 192.168.1.202 → 10.0.0.29 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:51] Unknown Attack (Anomaly) | 192.168.1.109 → 10.0.0.37 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:53] Unknown Attack (Anomaly) | 192.168.1.100 → 10.0.0.45 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:54] Unknown Attack (Anomaly) | 192.168.1.168 → 10.0.0.20 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:55] Unknown Attack (Anomaly) | 192.168.1.171 → 10.0.0.40 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:56] Unknown Attack (Anomaly) | 192.168.1.249 → 10.0.0.1 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:57] Unknown Attack (Anomaly) | 192.168.1.19 → 10.0.0.7 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:47:59] Unknown Attack (Anomaly) | 192.168.1.183 → 10.0.0.35 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:01] Unknown Attack (Anomaly) | 192.168.1.13 → 10.0.0.25 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:02] Unknown Attack (Anomaly) | 192.168.1.216 → 10.0.0.34 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:04] Unknown Attack (Anomaly) | 192.168.1.112 → 10.0.0.7 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:06] Unknown Attack (Anomaly) | 192.168.1.72 → 10.0.0.12 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:07] Unknown Attack (Anomaly) | 192.168.1.169 → 10.0.0.10 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:08] Unknown Attack (Anomaly) | 192.168.1.141 → 10.0.0.14 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:09] Unknown Attack (Anomaly) | 192.168.1.159 → 10.0.0.24 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:10] Unknown Attack (Anomaly) | 192.168.1.25 → 10.0.0.26 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:12] Unknown Attack (Anomaly) | 192.168.1.78 → 10.0.0.8 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:14] Unknown Attack (Anomaly) | 192.168.1.254 → 10.0.0.42 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:14] Unknown Attack (Anomaly) | 192.168.1.119 → 10.0.0.38 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:16] Unknown Attack (Anomaly) | 192.168.1.219 → 10.0.0.7 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:17] Unknown Attack (Anomaly) | 192.168.1.74 → 10.0.0.21 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:19] Unknown Attack (Anomaly) | 192.168.1.129 → 10.0.0.35 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:21] Unknown Attack (Anomaly) | 192.168.1.160 → 10.0.0.42 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:22] Unknown Attack (Anomaly) | 192.168.1.240 → 10.0.0.29 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:23] Unknown Attack (Anomaly) | 192.168.1.147 → 10.0.0.38 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:25] Unknown Attack (Anomaly) | 192.168.1.90 → 10.0.0.39 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:26] Unknown Attack (Anomaly) | 192.168.1.253 → 10.0.0.20 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:28] Unknown Attack (Anomaly) | 192.168.1.90 → 10.0.0.9 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:29] Unknown Attack (Anomaly) | 192.168.1.198 → 10.0.0.31 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:30] Unknown Attack (Anomaly) | 192.168.1.110 → 10.0.0.6 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:31] Unknown Attack (Anomaly) | 192.168.1.7 → 10.0.0.31 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:32] Unknown Attack (Anomaly) | 192.168.1.213 → 10.0.0.7 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:34] Unknown Attack (Anomaly) | 192.168.1.158 → 10.0.0.32 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:35] Unknown Attack (Anomaly) | 192.168.1.218 → 10.0.0.23 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:36] Unknown Attack (Anomaly) | 192.168.1.181 → 10.0.0.40 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:37] Unknown Attack (Anomaly) | 192.168.1.249 → 10.0.0.46 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:38] Unknown Attack (Anomaly) | 192.168.1.25 → 10.0.0.24 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:39] Unknown Attack (Anomaly) | 192.168.1.112 → 10.0.0.32 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:41] Unknown Attack (Anomaly) | 192.168.1.180 → 10.0.0.12 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:43] Unknown Attack (Anomaly) | 192.168.1.13 → 10.0.0.35 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:44] Unknown Attack (Anomaly) | 192.168.1.115 → 10.0.0.19 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:45] Unknown Attack (Anomaly) | 192.168.1.140 → 10.0.0.1 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:46] Unknown Attack (Anomaly) | 192.168.1.62 → 10.0.0.35 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:48] Unknown Attack (Anomaly) | 192.168.1.133 → 10.0.0.48 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:49] Unknown Attack (Anomaly) | 192.168.1.150 → 10.0.0.48 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:51] Unknown Attack (Anomaly) | 192.168.1.144 → 10.0.0.42 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:52] Unknown Attack (Anomaly) | 192.168.1.239 → 10.0.0.38 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:54] Unknown Attack (Anomaly) | 192.168.1.121 → 10.0.0.35 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:55] Unknown Attack (Anomaly) | 192.168.1.56 → 10.0.0.5 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:56] Unknown Attack (Anomaly) | 192.168.1.32 → 10.0.0.18 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:58] Unknown Attack (Anomaly) | 192.168.1.63 → 10.0.0.37 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:48:59] Unknown Attack (Anomaly) | 192.168.1.138 → 10.0.0.11 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:00] Unknown Attack (Anomaly) | 192.168.1.63 → 10.0.0.34 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:01] Unknown Attack (Anomaly) | 192.168.1.144 → 10.0.0.4 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:02] Unknown Attack (Anomaly) | 192.168.1.14 → 10.0.0.49 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:04] Unknown Attack (Anomaly) | 192.168.1.20 → 10.0.0.33 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:05] Unknown Attack (Anomaly) | 192.168.1.43 → 10.0.0.46 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:06] Unknown Attack (Anomaly) | 192.168.1.242 → 10.0.0.37 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:07] Unknown Attack (Anomaly) | 192.168.1.141 → 10.0.0.28 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:09] Unknown Attack (Anomaly) | 192.168.1.159 → 10.0.0.12 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:10] Unknown Attack (Anomaly) | 192.168.1.177 → 10.0.0.50 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:11] Unknown Attack (Anomaly) | 192.168.1.197 → 10.0.0.43 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:13] Unknown Attack (Anomaly) | 192.168.1.23 → 10.0.0.31 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:14] Unknown Attack (Anomaly) | 192.168.1.251 → 10.0.0.10 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:15] Unknown Attack (Anomaly) | 192.168.1.133 → 10.0.0.43 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:16] Unknown Attack (Anomaly) | 192.168.1.44 → 10.0.0.20 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:17] Unknown Attack (Anomaly) | 192.168.1.35 → 10.0.0.39 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:19] Unknown Attack (Anomaly) | 192.168.1.95 → 10.0.0.6 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:20] Unknown Attack (Anomaly) | 192.168.1.207 → 10.0.0.8 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:21] Unknown Attack (Anomaly) | 192.168.1.177 → 10.0.0.27 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:22] Unknown Attack (Anomaly) | 192.168.1.79 → 10.0.0.45 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:23] Unknown Attack (Anomaly) | 192.168.1.249 → 10.0.0.22 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:23] Unknown Attack (Anomaly) | 192.168.1.225 → 10.0.0.8 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:24] Unknown Attack (Anomaly) | 192.168.1.235 → 10.0.0.34 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:25] Unknown Attack (Anomaly) | 192.168.1.44 → 10.0.0.21 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:26] Unknown Attack (Anomaly) | 192.168.1.27 → 10.0.0.49 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:27] Unknown Attack (Anomaly) | 192.168.1.183 → 10.0.0.21 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:29] Unknown Attack (Anomaly) | 192.168.1.232 → 10.0.0.29 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:30] Unknown Attack (Anomaly) | 192.168.1.157 → 10.0.0.27 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:31] Unknown Attack (Anomaly) | 192.168.1.119 → 10.0.0.49 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:32] Unknown Attack (Anomaly) | 192.168.1.126 → 10.0.0.46 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:33] Unknown Attack (Anomaly) | 192.168.1.197 → 10.0.0.46 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:34] Unknown Attack (Anomaly) | 192.168.1.132 → 10.0.0.13 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:36] Unknown Attack (Anomaly) | 192.168.1.243 → 10.0.0.18 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:37] Unknown Attack (Anomaly) | 192.168.1.59 → 10.0.0.4 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:38] Unknown Attack (Anomaly) | 192.168.1.89 → 10.0.0.9 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:39] Unknown Attack (Anomaly) | 192.168.1.79 → 10.0.0.44 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:41] Unknown Attack (Anomaly) | 192.168.1.56 → 10.0.0.21 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:42] Unknown Attack (Anomaly) | 192.168.1.92 → 10.0.0.5 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:43] Unknown Attack (Anomaly) | 192.168.1.213 → 10.0.0.34 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:45] Unknown Attack (Anomaly) | 192.168.1.157 → 10.0.0.40 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:46] Unknown Attack (Anomaly) | 192.168.1.201 → 10.0.0.30 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:48] Unknown Attack (Anomaly) | 192.168.1.133 → 10.0.0.37 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:49] Unknown Attack (Anomaly) | 192.168.1.11 → 10.0.0.7 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:51] Unknown Attack (Anomaly) | 192.168.1.37 → 10.0.0.15 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:52] Unknown Attack (Anomaly) | 192.168.1.163 → 10.0.0.28 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:53] Unknown Attack (Anomaly) | 192.168.1.186 → 10.0.0.15 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:55] Unknown Attack (Anomaly) | 192.168.1.97 → 10.0.0.49 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:56] Unknown Attack (Anomaly) | 192.168.1.6 → 10.0.0.48 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:58] Unknown Attack (Anomaly) | 192.168.1.254 → 10.0.0.40 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:49:59] Unknown Attack (Anomaly) | 192.168.1.55 → 10.0.0.34 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:00] Unknown Attack (Anomaly) | 192.168.1.58 → 10.0.0.41 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:02] Unknown Attack (Anomaly) | 192.168.1.185 → 10.0.0.24 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:03] Unknown Attack (Anomaly) | 192.168.1.152 → 10.0.0.50 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:04] Unknown Attack (Anomaly) | 192.168.1.128 → 10.0.0.36 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:06] Unknown Attack (Anomaly) | 192.168.1.91 → 10.0.0.26 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:08] Unknown Attack (Anomaly) | 192.168.1.78 → 10.0.0.1 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:08] Unknown Attack (Anomaly) | 192.168.1.108 → 10.0.0.32 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:09] Unknown Attack (Anomaly) | 192.168.1.166 → 10.0.0.25 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:10] Unknown Attack (Anomaly) | 192.168.1.94 → 10.0.0.13 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:12] Unknown Attack (Anomaly) | 192.168.1.186 → 10.0.0.8 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:13] Unknown Attack (Anomaly) | 192.168.1.170 → 10.0.0.26 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:14] Unknown Attack (Anomaly) | 192.168.1.94 → 10.0.0.30 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:15] Unknown Attack (Anomaly) | 192.168.1.165 → 10.0.0.41 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:16] Unknown Attack (Anomaly) | 192.168.1.41 → 10.0.0.31 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:17] Unknown Attack (Anomaly) | 192.168.1.92 → 10.0.0.23 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:18] Unknown Attack (Anomaly) | 192.168.1.34 → 10.0.0.26 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:19] Unknown Attack (Anomaly) | 192.168.1.8 → 10.0.0.22 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:21] Unknown Attack (Anomaly) | 192.168.1.100 → 10.0.0.9 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:23] Unknown Attack (Anomaly) | 192.168.1.233 → 10.0.0.29 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:24] Unknown Attack (Anomaly) | 192.168.1.88 → 10.0.0.3 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:25] Unknown Attack (Anomaly) | 192.168.1.203 → 10.0.0.31 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:26] Unknown Attack (Anomaly) | 192.168.1.249 → 10.0.0.28 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:28] Unknown Attack (Anomaly) | 192.168.1.195 → 10.0.0.11 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:28] Unknown Attack (Anomaly) | 192.168.1.227 → 10.0.0.36 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:29] Unknown Attack (Anomaly) | 192.168.1.35 → 10.0.0.4 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:31] Unknown Attack (Anomaly) | 192.168.1.180 → 10.0.0.9 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:33] Unknown Attack (Anomaly) | 192.168.1.169 → 10.0.0.11 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:34] Unknown Attack (Anomaly) | 192.168.1.68 → 10.0.0.19 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:50:35] Unknown Attack (Anomaly) | 192.168.1.60 → 10.0.0.16 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:54:54] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:54:54] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:00] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:01] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:03] Unknown Attack (Anomaly) | 192.168.29.40 → 104.208.16.92 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:09] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:10] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:14] Unknown Attack (Anomaly) | 192.168.29.40 → 204.79.197.203 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:21] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:22] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:27] Unknown Attack (Anomaly) | 192.168.29.40 → 34.54.84.110 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:31] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:32] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:34] Unknown Attack (Anomaly) | 192.168.29.191 → 192.168.29.40 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:43] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:44] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:51] Unknown Attack (Anomaly) | 192.168.29.40 → 103.180.115.15 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:55] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:55:56] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:01] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:02] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:03] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:04] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:10] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:10] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:13] Unknown Attack (Anomaly) | 192.168.29.191 → 192.168.29.40 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:13] Unknown Attack (Anomaly) | 192.168.29.191 → 192.168.29.40 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:18] Unknown Attack (Anomaly) | 192.168.29.40 → 108.158.57.74 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:23] Unknown Attack (Anomaly) | 192.168.29.40 → 104.18.22.112 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:27] Unknown Attack (Anomaly) | 192.168.29.40 → 207.246.124.187 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:28] Unknown Attack (Anomaly) | 192.168.29.40 → 103.180.115.8 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:28] Unknown Attack (Anomaly) | 192.168.29.40 → 18.161.229.117 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:28] Unknown Attack (Anomaly) | 192.168.29.40 → 18.244.164.14 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:29] Unknown Attack (Anomaly) | 18.244.164.14 → 192.168.29.40 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:30] Unknown Attack (Anomaly) | 192.168.29.40 → 195.42.142.115 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:30] Unknown Attack (Anomaly) | 192.168.29.40 → 69.48.156.116 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:36] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:42] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 11:56:42] Unknown Attack (Anomaly) | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (override)
+[2026-04-04 12:18:54] Unknown Anomaly | 192.168.1.185 → 10.0.0.13 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:18:55] Unknown Anomaly | 192.168.1.70 → 10.0.0.25 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:18:56] Unknown Anomaly | 192.168.1.82 → 10.0.0.15 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:18:56] Unknown Anomaly | 192.168.1.195 → 10.0.0.41 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:18:58] Unknown Anomaly | 192.168.1.205 → 10.0.0.22 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:18:58] Unknown Anomaly | 192.168.1.91 → 10.0.0.15 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:18:59] Unknown Anomaly | 192.168.1.170 → 10.0.0.30 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:00] Unknown Anomaly | 192.168.1.80 → 10.0.0.22 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:02] Unknown Anomaly | 192.168.1.221 → 10.0.0.36 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:03] Unknown Anomaly | 192.168.1.79 → 10.0.0.23 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:04] Unknown Anomaly | 192.168.1.215 → 10.0.0.25 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:05] Unknown Anomaly | 192.168.1.221 → 10.0.0.13 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:06] Unknown Anomaly | 192.168.1.67 → 10.0.0.2 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:07] Unknown Anomaly | 192.168.1.169 → 10.0.0.38 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:08] Unknown Anomaly | 192.168.1.191 → 10.0.0.16 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:08] Unknown Anomaly | 192.168.1.84 → 10.0.0.32 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:09] Unknown Anomaly | 192.168.1.9 → 10.0.0.7 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:10] Unknown Anomaly | 192.168.1.144 → 10.0.0.16 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:11] Unknown Anomaly | 192.168.1.137 → 10.0.0.15 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:12] Unknown Anomaly | 192.168.1.116 → 10.0.0.22 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:13] Unknown Anomaly | 192.168.1.52 → 10.0.0.14 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:14] Unknown Anomaly | 192.168.1.131 → 10.0.0.34 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:15] Unknown Anomaly | 192.168.1.102 → 10.0.0.28 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:15] Unknown Anomaly | 192.168.1.179 → 10.0.0.16 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:17] Unknown Anomaly | 192.168.1.26 → 10.0.0.29 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:17] Unknown Anomaly | 192.168.1.205 → 10.0.0.13 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:18] Unknown Anomaly | 192.168.1.43 → 10.0.0.17 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:19] Unknown Anomaly | 192.168.1.63 → 10.0.0.10 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:19:20] Unknown Anomaly | 192.168.1.5 → 10.0.0.28 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:39] Unknown Anomaly | 192.168.1.147 → 10.0.0.7 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:40] Unknown Anomaly | 192.168.1.161 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:41] Unknown Anomaly | 192.168.1.249 → 10.0.0.32 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:42] Unknown Anomaly | 192.168.1.210 → 10.0.0.8 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:43] Unknown Anomaly | 192.168.1.7 → 10.0.0.44 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:44] Unknown Anomaly | 192.168.1.31 → 10.0.0.19 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:46] Unknown Anomaly | 192.168.1.205 → 10.0.0.12 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:47] Unknown Anomaly | 192.168.1.226 → 10.0.0.16 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:48] Unknown Anomaly | 192.168.1.164 → 10.0.0.50 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:48] Unknown Anomaly | 192.168.1.168 → 10.0.0.48 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:49] Unknown Anomaly | 192.168.1.192 → 10.0.0.29 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:50] Unknown Anomaly | 192.168.1.6 → 10.0.0.1 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:51] Unknown Anomaly | 192.168.1.148 → 10.0.0.9 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:52] Unknown Anomaly | 192.168.1.10 → 10.0.0.31 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:53] Unknown Anomaly | 192.168.1.137 → 10.0.0.23 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:54] Unknown Anomaly | 192.168.1.59 → 10.0.0.34 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:55] Unknown Anomaly | 192.168.1.78 → 10.0.0.26 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:56] Unknown Anomaly | 192.168.1.68 → 10.0.0.11 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:58] Unknown Anomaly | 192.168.1.161 → 10.0.0.46 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:59] Unknown Anomaly | 192.168.1.145 → 10.0.0.33 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:20:59] Unknown Anomaly | 192.168.1.179 → 10.0.0.5 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:00] Unknown Anomaly | 192.168.1.166 → 10.0.0.13 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:02] Unknown Anomaly | 192.168.1.62 → 10.0.0.4 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:02] Unknown Anomaly | 192.168.1.67 → 10.0.0.12 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:03] Unknown Anomaly | 192.168.1.183 → 10.0.0.38 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:05] Unknown Anomaly | 192.168.1.10 → 10.0.0.12 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:06] Unknown Anomaly | 192.168.1.14 → 10.0.0.43 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:07] Unknown Anomaly | 192.168.1.250 → 10.0.0.8 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:08] Unknown Anomaly | 192.168.1.41 → 10.0.0.36 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:09] Unknown Anomaly | 192.168.1.64 → 10.0.0.20 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:10] Unknown Anomaly | 192.168.1.128 → 10.0.0.14 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:11] Unknown Anomaly | 192.168.1.69 → 10.0.0.21 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:12] Unknown Anomaly | 192.168.1.27 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:12] Unknown Anomaly | 192.168.1.66 → 10.0.0.38 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:13] Unknown Anomaly | 192.168.1.65 → 10.0.0.9 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:15] Unknown Anomaly | 192.168.1.42 → 10.0.0.48 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:15] Unknown Anomaly | 192.168.1.180 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:16] Unknown Anomaly | 192.168.1.170 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:17] Unknown Anomaly | 192.168.1.12 → 10.0.0.8 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:18] Unknown Anomaly | 192.168.1.218 → 10.0.0.6 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:19] Unknown Anomaly | 192.168.1.132 → 10.0.0.32 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:19] Unknown Anomaly | 192.168.1.246 → 10.0.0.13 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:20] Unknown Anomaly | 192.168.1.104 → 10.0.0.4 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:21] Unknown Anomaly | 192.168.1.207 → 10.0.0.37 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:22] Unknown Anomaly | 192.168.1.57 → 10.0.0.25 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:23] Unknown Anomaly | 192.168.1.172 → 10.0.0.39 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:23] Unknown Anomaly | 192.168.1.78 → 10.0.0.29 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:24] Unknown Anomaly | 192.168.1.80 → 10.0.0.23 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:25] Unknown Anomaly | 192.168.1.212 → 10.0.0.48 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:26] Unknown Anomaly | 192.168.1.101 → 10.0.0.8 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:27] Unknown Anomaly | 192.168.1.57 → 10.0.0.18 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:28] Unknown Anomaly | 192.168.1.99 → 10.0.0.5 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:28] Unknown Anomaly | 192.168.1.193 → 10.0.0.32 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:29] Unknown Anomaly | 192.168.1.226 → 10.0.0.11 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:30] Unknown Anomaly | 192.168.1.13 → 10.0.0.18 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:31] Unknown Anomaly | 192.168.1.169 → 10.0.0.37 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:32] Unknown Anomaly | 192.168.1.162 → 10.0.0.48 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:33] Unknown Anomaly | 192.168.1.197 → 10.0.0.44 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:33] Unknown Anomaly | 192.168.1.111 → 10.0.0.15 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:35] Unknown Anomaly | 192.168.1.98 → 10.0.0.23 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:35] Unknown Anomaly | 192.168.1.138 → 10.0.0.6 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:36] Unknown Anomaly | 192.168.1.250 → 10.0.0.26 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:37] Unknown Anomaly | 192.168.1.213 → 10.0.0.34 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:37] Unknown Anomaly | 192.168.1.103 → 10.0.0.40 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:38] Unknown Anomaly | 192.168.1.6 → 10.0.0.33 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:39] Unknown Anomaly | 192.168.1.30 → 10.0.0.14 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:40] Unknown Anomaly | 192.168.1.83 → 10.0.0.15 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:42] Unknown Anomaly | 192.168.1.95 → 10.0.0.5 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:43] Unknown Anomaly | 192.168.1.145 → 10.0.0.42 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:44] Unknown Anomaly | 192.168.1.242 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:45] Unknown Anomaly | 192.168.1.120 → 10.0.0.39 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:46] Unknown Anomaly | 192.168.1.225 → 10.0.0.18 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:47] Unknown Anomaly | 192.168.1.3 → 10.0.0.18 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:48] Unknown Anomaly | 192.168.1.42 → 10.0.0.5 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:48] Unknown Anomaly | 192.168.1.7 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:49] Unknown Anomaly | 192.168.1.208 → 10.0.0.50 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:50] Unknown Anomaly | 192.168.1.24 → 10.0.0.39 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:51] Unknown Anomaly | 192.168.1.128 → 10.0.0.7 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:52] Unknown Anomaly | 192.168.1.196 → 10.0.0.9 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:54] Unknown Anomaly | 192.168.1.157 → 10.0.0.15 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:54] Unknown Anomaly | 192.168.1.212 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:55] Unknown Anomaly | 192.168.1.152 → 10.0.0.31 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:56] Unknown Anomaly | 192.168.1.241 → 10.0.0.25 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:57] Unknown Anomaly | 192.168.1.18 → 10.0.0.19 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:58] Unknown Anomaly | 192.168.1.50 → 10.0.0.38 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:59] Unknown Anomaly | 192.168.1.128 → 10.0.0.17 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:21:59] Unknown Anomaly | 192.168.1.249 → 10.0.0.18 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:00] Unknown Anomaly | 192.168.1.220 → 10.0.0.14 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:01] Unknown Anomaly | 192.168.1.155 → 10.0.0.5 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:02] Unknown Anomaly | 192.168.1.216 → 10.0.0.13 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:03] Unknown Anomaly | 192.168.1.244 → 10.0.0.12 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:04] Unknown Anomaly | 192.168.1.193 → 10.0.0.25 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:06] Unknown Anomaly | 192.168.1.42 → 10.0.0.16 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:07] Unknown Anomaly | 192.168.1.248 → 10.0.0.13 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:07] Unknown Anomaly | 192.168.1.115 → 10.0.0.3 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:08] Unknown Anomaly | 192.168.1.175 → 10.0.0.46 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:09] Unknown Anomaly | 192.168.1.11 → 10.0.0.33 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:10] Unknown Anomaly | 192.168.1.242 → 10.0.0.43 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:10] Unknown Anomaly | 192.168.1.124 → 10.0.0.15 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:11] Unknown Anomaly | 192.168.1.123 → 10.0.0.42 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:12] Unknown Anomaly | 192.168.1.137 → 10.0.0.3 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:13] Unknown Anomaly | 192.168.1.211 → 10.0.0.32 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:14] Unknown Anomaly | 192.168.1.156 → 10.0.0.3 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:16] Unknown Anomaly | 192.168.1.196 → 10.0.0.29 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:17] Unknown Anomaly | 192.168.1.143 → 10.0.0.8 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:18] Unknown Anomaly | 192.168.1.59 → 10.0.0.13 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:19] Unknown Anomaly | 192.168.1.112 → 10.0.0.30 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:20] Unknown Anomaly | 192.168.1.37 → 10.0.0.14 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:20] Unknown Anomaly | 192.168.1.84 → 10.0.0.23 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:22] Unknown Anomaly | 192.168.1.231 → 10.0.0.47 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:22] Unknown Anomaly | 192.168.1.203 → 10.0.0.38 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:23] Unknown Anomaly | 192.168.1.162 → 10.0.0.19 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:24] Unknown Anomaly | 192.168.1.36 → 10.0.0.40 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:25] Unknown Anomaly | 192.168.1.6 → 10.0.0.31 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:25] Unknown Anomaly | 192.168.1.84 → 10.0.0.2 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:27] Unknown Anomaly | 192.168.1.15 → 10.0.0.7 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:28] Unknown Anomaly | 192.168.1.103 → 10.0.0.12 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:28] Unknown Anomaly | 192.168.1.129 → 10.0.0.42 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:29] Unknown Anomaly | 192.168.1.112 → 10.0.0.14 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:29] Unknown Anomaly | 192.168.1.242 → 10.0.0.15 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:30] Unknown Anomaly | 192.168.1.20 → 10.0.0.49 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:31] Unknown Anomaly | 192.168.1.13 → 10.0.0.36 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:32] Unknown Anomaly | 192.168.1.60 → 10.0.0.46 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:32] Unknown Anomaly | 192.168.1.31 → 10.0.0.1 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:33] Unknown Anomaly | 192.168.1.18 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:34] Unknown Anomaly | 192.168.1.100 → 10.0.0.7 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:35] Unknown Anomaly | 192.168.1.52 → 10.0.0.29 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:36] Unknown Anomaly | 192.168.1.230 → 10.0.0.11 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:36] Unknown Anomaly | 192.168.1.137 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:38] Unknown Anomaly | 192.168.1.5 → 10.0.0.43 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:38] Unknown Anomaly | 192.168.1.167 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:39] Unknown Anomaly | 192.168.1.242 → 10.0.0.36 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:40] Unknown Anomaly | 192.168.1.3 → 10.0.0.10 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:40] Unknown Anomaly | 192.168.1.173 → 10.0.0.46 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:41] Unknown Anomaly | 192.168.1.188 → 10.0.0.45 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:42] Unknown Anomaly | 192.168.1.19 → 10.0.0.9 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:43] Unknown Anomaly | 192.168.1.83 → 10.0.0.18 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:44] Unknown Anomaly | 192.168.1.124 → 10.0.0.8 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:45] Unknown Anomaly | 192.168.1.242 → 10.0.0.10 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:46] Unknown Anomaly | 192.168.1.163 → 10.0.0.26 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:46] Unknown Anomaly | 192.168.1.101 → 10.0.0.30 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:47] Unknown Anomaly | 192.168.1.167 → 10.0.0.28 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:48] Unknown Anomaly | 192.168.1.24 → 10.0.0.48 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:48] Unknown Anomaly | 192.168.1.57 → 10.0.0.28 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:49] Unknown Anomaly | 192.168.1.117 → 10.0.0.6 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:50] Unknown Anomaly | 192.168.1.97 → 10.0.0.11 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:51] Unknown Anomaly | 192.168.1.157 → 10.0.0.13 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:52] Unknown Anomaly | 192.168.1.206 → 10.0.0.50 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:53] Unknown Anomaly | 192.168.1.179 → 10.0.0.40 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:54] Unknown Anomaly | 192.168.1.58 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:55] Unknown Anomaly | 192.168.1.73 → 10.0.0.37 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:55] Unknown Anomaly | 192.168.1.243 → 10.0.0.18 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:56] Unknown Anomaly | 192.168.1.126 → 10.0.0.6 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:57] Unknown Anomaly | 192.168.1.162 → 10.0.0.26 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:58] Unknown Anomaly | 192.168.1.14 → 10.0.0.17 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:22:59] Unknown Anomaly | 192.168.1.51 → 10.0.0.25 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:00] Unknown Anomaly | 192.168.1.45 → 10.0.0.33 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:00] Unknown Anomaly | 192.168.1.27 → 10.0.0.34 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:01] Unknown Anomaly | 192.168.1.2 → 10.0.0.16 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:02] Unknown Anomaly | 192.168.1.79 → 10.0.0.50 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:02] Unknown Anomaly | 192.168.1.209 → 10.0.0.18 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:02] Unknown Anomaly | 192.168.1.203 → 10.0.0.34 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:04] Unknown Anomaly | 192.168.1.4 → 10.0.0.48 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:05] Unknown Anomaly | 192.168.1.194 → 10.0.0.12 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:06] Unknown Anomaly | 192.168.1.209 → 10.0.0.45 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:07] Unknown Anomaly | 192.168.1.198 → 10.0.0.27 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:08] Unknown Anomaly | 192.168.1.89 → 10.0.0.48 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:09] Unknown Anomaly | 192.168.1.65 → 10.0.0.44 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:10] Unknown Anomaly | 192.168.1.167 → 10.0.0.25 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:11] Unknown Anomaly | 192.168.1.7 → 10.0.0.38 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:11] Unknown Anomaly | 192.168.1.16 → 10.0.0.21 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:13] Unknown Anomaly | 192.168.1.137 → 10.0.0.45 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:14] Unknown Anomaly | 192.168.1.213 → 10.0.0.29 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:15] Unknown Anomaly | 192.168.1.117 → 10.0.0.6 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:16] Unknown Anomaly | 192.168.1.72 → 10.0.0.14 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:17] Unknown Anomaly | 192.168.1.161 → 10.0.0.26 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:18] Unknown Anomaly | 192.168.1.185 → 10.0.0.37 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:19] Unknown Anomaly | 192.168.1.25 → 10.0.0.36 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:21] Unknown Anomaly | 192.168.1.80 → 10.0.0.9 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:22] Unknown Anomaly | 192.168.1.126 → 10.0.0.43 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:23] Unknown Anomaly | 192.168.1.203 → 10.0.0.8 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:24] Unknown Anomaly | 192.168.1.117 → 10.0.0.9 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:25] Unknown Anomaly | 192.168.1.77 → 10.0.0.30 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:25] Unknown Anomaly | 192.168.1.182 → 10.0.0.34 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:27] Unknown Anomaly | 192.168.1.153 → 10.0.0.14 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:28] Unknown Anomaly | 192.168.1.3 → 10.0.0.31 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:28] Unknown Anomaly | 192.168.1.194 → 10.0.0.3 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:29] Unknown Anomaly | 192.168.1.36 → 10.0.0.7 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:30] Unknown Anomaly | 192.168.1.193 → 10.0.0.11 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:30] Unknown Anomaly | 192.168.1.72 → 10.0.0.46 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:31] Unknown Anomaly | 192.168.1.254 → 10.0.0.34 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:32] Unknown Anomaly | 192.168.1.184 → 10.0.0.23 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:32] Unknown Anomaly | 192.168.1.33 → 10.0.0.31 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:33] Unknown Anomaly | 192.168.1.123 → 10.0.0.10 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:34] Unknown Anomaly | 192.168.1.127 → 10.0.0.44 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:34] Unknown Anomaly | 192.168.1.18 → 10.0.0.47 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:36] Unknown Anomaly | 192.168.1.190 → 10.0.0.50 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:36] Unknown Anomaly | 192.168.1.242 → 10.0.0.49 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:38] Unknown Anomaly | 192.168.1.41 → 10.0.0.31 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:39] Unknown Anomaly | 192.168.1.233 → 10.0.0.43 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:40] Unknown Anomaly | 192.168.1.36 → 10.0.0.5 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:41] Unknown Anomaly | 192.168.1.144 → 10.0.0.21 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:42] Unknown Anomaly | 192.168.1.205 → 10.0.0.49 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:43] Unknown Anomaly | 192.168.1.254 → 10.0.0.24 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:44] Unknown Anomaly | 192.168.1.240 → 10.0.0.33 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:45] Unknown Anomaly | 192.168.1.166 → 10.0.0.28 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:45] Unknown Anomaly | 192.168.1.235 → 10.0.0.11 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:46] Unknown Anomaly | 192.168.1.160 → 10.0.0.4 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:47] Unknown Anomaly | 192.168.1.203 → 10.0.0.45 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:48] Unknown Anomaly | 192.168.1.188 → 10.0.0.23 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:48] Unknown Anomaly | 192.168.1.230 → 10.0.0.7 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:49] Unknown Anomaly | 192.168.1.25 → 10.0.0.4 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:50] Unknown Anomaly | 192.168.1.126 → 10.0.0.22 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:50] Unknown Anomaly | 192.168.1.169 → 10.0.0.28 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:51] Unknown Anomaly | 192.168.1.103 → 10.0.0.50 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:52] Unknown Anomaly | 192.168.1.29 → 10.0.0.10 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:52] Unknown Anomaly | 192.168.1.58 → 10.0.0.11 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:53] Unknown Anomaly | 192.168.1.110 → 10.0.0.24 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:54] Unknown Anomaly | 192.168.1.164 → 10.0.0.7 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:55] Unknown Anomaly | 192.168.1.130 → 10.0.0.48 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:56] Unknown Anomaly | 192.168.1.185 → 10.0.0.48 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:57] Unknown Anomaly | 192.168.1.194 → 10.0.0.7 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:58] Unknown Anomaly | 192.168.1.196 → 10.0.0.39 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:23:59] Unknown Anomaly | 192.168.1.90 → 10.0.0.46 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:00] Unknown Anomaly | 192.168.1.67 → 10.0.0.39 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:01] Unknown Anomaly | 192.168.1.176 → 10.0.0.12 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:03] Unknown Anomaly | 192.168.1.213 → 10.0.0.3 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:04] Unknown Anomaly | 192.168.1.66 → 10.0.0.46 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:05] Unknown Anomaly | 192.168.1.143 → 10.0.0.29 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:06] Unknown Anomaly | 192.168.1.29 → 10.0.0.32 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:08] Unknown Anomaly | 192.168.1.7 → 10.0.0.25 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:08] Unknown Anomaly | 192.168.1.206 → 10.0.0.10 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:09] Unknown Anomaly | 192.168.1.89 → 10.0.0.26 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:09] Unknown Anomaly | 192.168.1.77 → 10.0.0.50 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:10] Unknown Anomaly | 192.168.1.40 → 10.0.0.2 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:11] Unknown Anomaly | 192.168.1.22 → 10.0.0.21 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:12] Unknown Anomaly | 192.168.1.216 → 10.0.0.2 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:13] Unknown Anomaly | 192.168.1.109 → 10.0.0.39 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:14] Unknown Anomaly | 192.168.1.156 → 10.0.0.42 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:15] Unknown Anomaly | 192.168.1.211 → 10.0.0.24 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:15] Unknown Anomaly | 192.168.1.217 → 10.0.0.37 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:16] Unknown Anomaly | 192.168.1.7 → 10.0.0.24 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:17] Unknown Anomaly | 192.168.1.176 → 10.0.0.49 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:17] Unknown Anomaly | 192.168.1.72 → 10.0.0.39 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:19] Unknown Anomaly | 192.168.1.184 → 10.0.0.3 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:19] Unknown Anomaly | 192.168.1.202 → 10.0.0.30 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:20] Unknown Anomaly | 192.168.1.3 → 10.0.0.14 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:21] Unknown Anomaly | 192.168.1.39 → 10.0.0.10 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:22] Unknown Anomaly | 192.168.1.49 → 10.0.0.5 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:22] Unknown Anomaly | 192.168.1.143 → 10.0.0.20 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:23] Unknown Anomaly | 192.168.1.135 → 10.0.0.28 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:25] Unknown Anomaly | 192.168.1.21 → 10.0.0.36 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:26] Unknown Anomaly | 192.168.1.119 → 10.0.0.29 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:26] Unknown Anomaly | 192.168.1.102 → 10.0.0.34 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:27] Unknown Anomaly | 192.168.1.224 → 10.0.0.1 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:28] Unknown Anomaly | 192.168.1.206 → 10.0.0.14 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:29] Unknown Anomaly | 192.168.1.40 → 10.0.0.18 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:30] Unknown Anomaly | 192.168.1.113 → 10.0.0.17 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:31] Unknown Anomaly | 192.168.1.225 → 10.0.0.4 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:31] Unknown Anomaly | 192.168.1.98 → 10.0.0.36 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:33] Unknown Anomaly | 192.168.1.222 → 10.0.0.37 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:34] Unknown Anomaly | 192.168.1.248 → 10.0.0.3 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:35] Unknown Anomaly | 192.168.1.224 → 10.0.0.43 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:36] Unknown Anomaly | 192.168.1.19 → 10.0.0.31 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:37] Unknown Anomaly | 192.168.1.114 → 10.0.0.42 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:38] Unknown Anomaly | 192.168.1.137 → 10.0.0.50 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:39] Unknown Anomaly | 192.168.1.67 → 10.0.0.11 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:40] Unknown Anomaly | 192.168.1.46 → 10.0.0.43 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:41] Unknown Anomaly | 192.168.1.216 → 10.0.0.33 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:42] Unknown Anomaly | 192.168.1.189 → 10.0.0.3 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:43] Unknown Anomaly | 192.168.1.115 → 10.0.0.2 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:43] Unknown Anomaly | 192.168.1.138 → 10.0.0.15 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:44] Unknown Anomaly | 192.168.1.208 → 10.0.0.9 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:45] Unknown Anomaly | 192.168.1.232 → 10.0.0.17 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:46] Unknown Anomaly | 192.168.1.75 → 10.0.0.28 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:47] Unknown Anomaly | 192.168.1.20 → 10.0.0.23 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:48] Unknown Anomaly | 192.168.1.174 → 10.0.0.37 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:50] Unknown Anomaly | 192.168.1.12 → 10.0.0.24 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:51] Unknown Anomaly | 192.168.1.177 → 10.0.0.46 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:52] Unknown Anomaly | 192.168.1.201 → 10.0.0.2 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:53] Unknown Anomaly | 192.168.1.156 → 10.0.0.6 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:53] Unknown Anomaly | 192.168.1.105 → 10.0.0.25 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:54] Unknown Anomaly | 192.168.1.27 → 10.0.0.30 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:55] Unknown Anomaly | 192.168.1.141 → 10.0.0.49 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:56] Unknown Anomaly | 192.168.1.88 → 10.0.0.48 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:57] Unknown Anomaly | 192.168.1.192 → 10.0.0.29 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:58] Unknown Anomaly | 192.168.1.147 → 10.0.0.45 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:24:58] Unknown Anomaly | 192.168.1.209 → 10.0.0.41 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:00] Unknown Anomaly | 192.168.1.36 → 10.0.0.35 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:01] Unknown Anomaly | 192.168.1.41 → 10.0.0.32 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:02] Unknown Anomaly | 192.168.1.95 → 10.0.0.24 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:03] Unknown Anomaly | 192.168.1.106 → 10.0.0.2 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:03] Unknown Anomaly | 192.168.1.3 → 10.0.0.20 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:04] Unknown Anomaly | 192.168.1.16 → 10.0.0.9 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:05] Unknown Anomaly | 192.168.1.82 → 10.0.0.36 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:06] Unknown Anomaly | 192.168.1.165 → 10.0.0.36 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:07] Unknown Anomaly | 192.168.1.118 → 10.0.0.50 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:08] Unknown Anomaly | 192.168.1.155 → 10.0.0.3 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:08] Unknown Anomaly | 192.168.1.57 → 10.0.0.3 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:10] Unknown Anomaly | 192.168.1.150 → 10.0.0.44 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:11] Unknown Anomaly | 192.168.1.81 → 10.0.0.29 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:25:12] Unknown Anomaly | 192.168.1.29 → 10.0.0.49 | conf=0.65 | Isolation Forest (override) | action=Logged
+[2026-04-04 12:40:42] Unknown Anomaly | 192.168.1.118 → 10.0.0.34 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:43] Unknown Anomaly | 192.168.1.202 → 10.0.0.25 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:45] DoS/DDoS | 192.168.1.17 → 10.0.0.13 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:40:46] Unknown Anomaly | 192.168.1.211 → 10.0.0.32 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:46] DoS/DDoS | 192.168.1.26 → 10.0.0.26 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:40:47] Unknown Anomaly | 192.168.1.188 → 10.0.0.49 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:48] Unknown Anomaly | 192.168.1.138 → 10.0.0.36 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:48] DoS/DDoS | 192.168.1.129 → 10.0.0.30 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:40:50] DoS/DDoS | 192.168.1.179 → 10.0.0.41 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:40:50] Unknown Anomaly | 192.168.1.24 → 10.0.0.3 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:51] Unknown Anomaly | 192.168.1.122 → 10.0.0.18 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:52] DoS/DDoS | 192.168.1.121 → 10.0.0.2 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:40:53] Unknown Anomaly | 192.168.1.66 → 10.0.0.28 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:53] Unknown Anomaly | 192.168.1.172 → 10.0.0.32 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:55] Unknown Anomaly | 192.168.1.48 → 10.0.0.37 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:56] DoS/DDoS | 192.168.1.218 → 10.0.0.8 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:40:57] Unknown Anomaly | 192.168.1.18 → 10.0.0.45 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:58] Unknown Anomaly | 192.168.1.253 → 10.0.0.4 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:58] DoS/DDoS | 192.168.1.92 → 10.0.0.9 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:40:59] Unknown Anomaly | 192.168.1.33 → 10.0.0.4 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:40:59] Unknown Anomaly | 192.168.1.176 → 10.0.0.50 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:01] DoS/DDoS | 192.168.1.105 → 10.0.0.27 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:02] Unknown Anomaly | 192.168.1.170 → 10.0.0.20 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:04] Unknown Anomaly | 192.168.1.69 → 10.0.0.8 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:05] Unknown Anomaly | 192.168.1.154 → 10.0.0.17 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:07] Unknown Anomaly | 192.168.1.116 → 10.0.0.42 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:07] Unknown Anomaly | 192.168.1.223 → 10.0.0.47 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:09] Unknown Anomaly | 192.168.1.199 → 10.0.0.17 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:10] Unknown Anomaly | 192.168.1.148 → 10.0.0.43 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:10] Unknown Anomaly | 192.168.1.181 → 10.0.0.31 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:11] Unknown Anomaly | 192.168.1.109 → 10.0.0.33 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:12] Unknown Anomaly | 192.168.1.74 → 10.0.0.40 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:13] Unknown Anomaly | 192.168.1.38 → 10.0.0.30 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:14] Unknown Anomaly | 192.168.1.191 → 10.0.0.21 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:16] Unknown Anomaly | 192.168.1.98 → 10.0.0.22 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:17] Unknown Anomaly | 192.168.1.91 → 10.0.0.34 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:17] Unknown Anomaly | 192.168.1.128 → 10.0.0.44 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:18] DoS/DDoS | 192.168.1.70 → 10.0.0.7 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:19] Unknown Anomaly | 192.168.1.134 → 10.0.0.15 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:21] DoS/DDoS | 192.168.1.13 → 10.0.0.25 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:22] Unknown Anomaly | 192.168.1.68 → 10.0.0.27 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:23] Unknown Anomaly | 192.168.1.155 → 10.0.0.30 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:24] Unknown Anomaly | 192.168.1.159 → 10.0.0.3 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:25] Unknown Anomaly | 192.168.1.229 → 10.0.0.27 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:25] Unknown Anomaly | 192.168.1.61 → 10.0.0.22 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:27] Unknown Anomaly | 192.168.1.55 → 10.0.0.26 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:27] Unknown Anomaly | 192.168.1.103 → 10.0.0.24 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:28] DoS/DDoS | 192.168.1.14 → 10.0.0.46 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:29] Unknown Anomaly | 192.168.1.67 → 10.0.0.50 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:31] Unknown Anomaly | 192.168.1.124 → 10.0.0.10 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:31] Unknown Anomaly | 192.168.1.156 → 10.0.0.41 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:32] DoS/DDoS | 192.168.1.157 → 10.0.0.10 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:32] Unknown Anomaly | 192.168.1.168 → 10.0.0.27 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:34] Unknown Anomaly | 192.168.1.36 → 10.0.0.1 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:34] DoS/DDoS | 192.168.1.110 → 10.0.0.28 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:35] DoS/DDoS | 192.168.1.31 → 10.0.0.20 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:37] Port Scan | 192.168.1.205 → 10.0.0.32 | conf=0.65 | Hybrid (IF anomaly, RF suggests Port Scan) | action=IP Blocked
+[2026-04-04 12:41:38] DoS/DDoS | 192.168.1.42 → 10.0.0.45 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:39] Unknown Anomaly | 192.168.1.77 → 10.0.0.30 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:39] Unknown Anomaly | 192.168.1.72 → 10.0.0.9 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:41] DoS/DDoS | 192.168.1.23 → 10.0.0.40 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:42] Unknown Anomaly | 192.168.1.247 → 10.0.0.1 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:42] Unknown Anomaly | 192.168.1.56 → 10.0.0.46 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:44] Unknown Anomaly | 192.168.1.198 → 10.0.0.31 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:45] Unknown Anomaly | 192.168.1.7 → 10.0.0.35 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:46] DoS/DDoS | 192.168.1.214 → 10.0.0.29 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:47] Unknown Anomaly | 192.168.1.99 → 10.0.0.41 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:48] DoS/DDoS | 192.168.1.184 → 10.0.0.37 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:49] Unknown Anomaly | 192.168.1.166 → 10.0.0.30 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:52] DoS/DDoS | 192.168.1.241 → 10.0.0.47 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 12:41:55] Unknown Anomaly | 192.168.1.30 → 10.0.0.14 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:58] Unknown Anomaly | 192.168.1.185 → 10.0.0.7 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:41:59] Unknown Anomaly | 192.168.1.145 → 10.0.0.14 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:42:00] Unknown Anomaly | 192.168.1.220 → 10.0.0.3 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:42:00] Unknown Anomaly | 192.168.1.195 → 10.0.0.3 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:42:01] Unknown Anomaly | 192.168.1.245 → 10.0.0.32 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:45:13] Unknown Anomaly | 192.168.29.191 → 192.168.29.40 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:45:13] Unknown Anomaly | 192.168.29.40 → 192.168.29.191 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:45:19] Unknown Anomaly | 20.60.225.65 → 192.168.29.40 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:46:13] Unknown Anomaly | 204.79.197.222 → 192.168.29.40 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:51:18] Port Scan | 10.200.1.247 → 10.0.0.45 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:18] DoS/DDoS | 172.16.3.85 → 10.0.0.46 | conf=1.0 | Hybrid (RF + IF agree) | action=IP Blocked
+[2026-04-04 12:51:19] Port Scan | 10.200.1.235 → 10.0.0.44 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:20] Brute Force | 203.0.113.28 → 10.0.0.18 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:21] Brute Force | 203.0.113.178 → 10.0.0.8 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:24] Unknown Anomaly | 192.168.1.189 → 10.0.0.11 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:51:27] Brute Force | 203.0.113.157 → 10.0.0.35 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:28] DoS/DDoS | 172.16.1.89 → 10.0.0.21 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:29] Port Scan | 10.200.2.221 → 10.0.0.47 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:30] Brute Force | 203.0.113.123 → 10.0.0.22 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:33] Unknown Anomaly | 192.168.1.29 → 10.0.0.29 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:51:34] DoS/DDoS | 172.16.2.128 → 10.0.0.22 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:36] Port Scan | 10.200.5.182 → 10.0.0.16 | conf=0.999 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:42] Port Scan | 10.200.1.179 → 10.0.0.40 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:44] Brute Force | 203.0.113.165 → 10.0.0.48 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:53] Port Scan | 10.200.5.201 → 10.0.0.35 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:51:58] DoS/DDoS | 172.16.2.143 → 10.0.0.12 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:52:04] Port Scan | 10.200.1.242 → 10.0.0.36 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:52:20] DoS/DDoS | 172.16.2.206 → 10.0.0.11 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:52:30] Brute Force | 203.0.113.138 → 10.0.0.38 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:57:43] DoS/DDoS | 172.16.3.148 → 10.0.0.18 | conf=1.0 | Hybrid (RF + IF agree) | action=IP Blocked
+[2026-04-04 12:57:43] Port Scan | 10.200.1.25 → 10.0.0.26 | conf=0.999 | Random Forest | action=IP Blocked
+[2026-04-04 12:57:47] Port Scan | 10.200.2.117 → 10.0.0.23 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:57:49] Brute Force | 203.0.113.173 → 10.0.0.24 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:57:52] Brute Force | 203.0.113.244 → 10.0.0.23 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:57:56] Port Scan | 10.200.1.196 → 10.0.0.42 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:57:57] Brute Force | 203.0.113.18 → 10.0.0.16 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:57:59] Port Scan | 10.200.1.137 → 10.0.0.44 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:58:02] DoS/DDoS | 172.16.2.99 → 10.0.0.12 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:58:05] Brute Force | 203.0.113.224 → 10.0.0.49 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:58:11] Port Scan | 10.200.5.4 → 10.0.0.34 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:58:18] Unknown Anomaly | 192.168.1.89 → 10.0.0.44 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:58:22] Port Scan | 10.200.3.84 → 10.0.0.47 | conf=0.998 | Random Forest | action=IP Blocked
+[2026-04-04 12:58:24] DoS/DDoS | 172.16.2.80 → 10.0.0.49 | conf=0.995 | Random Forest | action=IP Blocked
+[2026-04-04 12:58:24] Unknown Anomaly | 192.168.1.55 → 10.0.0.50 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:58:26] Brute Force | 203.0.113.166 → 10.0.0.46 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:58:28] Unknown Anomaly | 192.168.1.51 → 10.0.0.9 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:58:29] Brute Force | 203.0.113.246 → 10.0.0.47 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:58:32] DoS/DDoS | 172.16.1.165 → 10.0.0.23 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:58:36] Unknown Anomaly | 192.168.1.130 → 10.0.0.50 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:58:45] DoS/DDoS | 172.16.2.60 → 10.0.0.18 | conf=1.0 | Hybrid (RF + IF agree) | action=IP Blocked
+[2026-04-04 12:58:51] Unknown Anomaly | 192.168.1.174 → 10.0.0.15 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:58:58] Unknown Anomaly | 192.168.1.160 → 10.0.0.50 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:59:14] Unknown Anomaly | 192.168.1.141 → 10.0.0.15 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 12:59:26] Port Scan | 10.200.5.32 → 10.0.0.33 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:59:43] Port Scan | 10.200.3.26 → 10.0.0.49 | conf=1.0 | Random Forest | action=IP Blocked
+[2026-04-04 12:59:58] Unknown Anomaly | 192.168.1.20 → 10.0.0.30 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 13:00:11] Unknown Anomaly | 192.168.1.5 → 10.0.0.22 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 13:01:56] Unknown Anomaly | 192.168.29.40 → 20.189.173.4 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 13:04:10] Unknown Anomaly | 20.42.65.89 → 192.168.29.40 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 13:05:52] DoS/DDoS | 192.168.29.191 → 192.168.29.40 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 13:06:52] DoS/DDoS | 162.159.140.229 → 192.168.29.40 | conf=0.65 | Hybrid (IF anomaly, RF suggests DoS/DDoS) | action=IP Blocked
+[2026-04-04 13:06:55] Unknown Anomaly | 52.38.254.163 → 192.168.29.40 | conf=0.6 | Isolation Forest (anomaly) | action=IP Blocked
+[2026-04-04 13:15:52] [HIGH] Brute Force | 203.0.113.21 → 10.0.0.45 | conf=1.0 | Random Forest | action=IP Blocked | reason=Repeated auth-port connections → credential guessing attack | Classifier identified Brute Force pattern (100% confidence)
+[2026-04-04 13:15:52] [HIGH] DoS/DDoS | 172.16.3.206 → 10.0.0.38 | conf=1.0 | Random Forest | action=IP Blocked | reason=High packet rate with flood patterns → denial-of-service attempt | Classifier identified DoS/DDoS pattern (100% confidence)
+[2026-04-04 13:15:53] [HIGH] Brute Force | 203.0.113.204 → 10.0.0.1 | conf=1.0 | Random Forest | action=IP Blocked | reason=Repeated auth-port connections → credential guessing attack | Classifier identified Brute Force pattern (100% confidence)
+[2026-04-04 13:15:53] [HIGH] Brute Force | 203.0.113.97 → 10.0.0.33 | conf=1.0 | Random Forest | action=IP Blocked | reason=Repeated auth-port connections → credential guessing attack | Classifier identified Brute Force pattern (100% confidence)
+[2026-04-04 13:15:55] [HIGH] Port Scan | 10.200.1.61 → 10.0.0.22 | conf=0.999 | Random Forest | action=IP Blocked | reason=Multiple ports probed in short time → reconnaissance activity | Classifier identified Port Scan pattern (100% confidence)
+[2026-04-04 13:15:56] [HIGH] DoS/DDoS | 172.16.1.154 → 10.0.0.9 | conf=1.0 | Random Forest | action=IP Blocked | reason=High packet rate with flood patterns → denial-of-service attempt | Classifier identified DoS/DDoS pattern (100% confidence)
+[2026-04-04 13:15:57] [HIGH] Brute Force | 203.0.113.238 → 10.0.0.24 | conf=1.0 | Random Forest | action=IP Blocked | reason=Repeated auth-port connections → credential guessing attack | Classifier identified Brute Force pattern (100% confidence)
+[2026-04-04 13:16:00] [HIGH] Brute Force | 203.0.113.35 → 10.0.0.48 | conf=1.0 | Random Forest | action=IP Blocked | reason=Repeated auth-port connections → credential guessing attack | Classifier identified Brute Force pattern (100% confidence)
+[2026-04-04 13:16:03] [HIGH] Port Scan | 10.200.4.130 → 10.0.0.46 | conf=1.0 | Random Forest | action=IP Blocked | reason=Multiple ports probed in short time → reconnaissance activity | Classifier identified Port Scan pattern (100% confidence)
+[2026-04-04 13:16:06] [HIGH] Port Scan | 10.200.3.150 → 10.0.0.18 | conf=1.0 | Random Forest | action=IP Blocked | reason=Multiple ports probed in short time → reconnaissance activity | Classifier identified Port Scan pattern (100% confidence)
+[2026-04-04 13:16:07] [HIGH] Port Scan | 10.200.4.63 → 10.0.0.43 | conf=1.0 | Random Forest | action=IP Blocked | reason=Multiple ports probed in short time → reconnaissance activity | Classifier identified Port Scan pattern (100% confidence)
+[2026-04-04 13:16:10] [HIGH] DoS/DDoS | 172.16.2.12 → 10.0.0.33 | conf=1.0 | Random Forest | action=IP Blocked | reason=High packet rate with flood patterns → denial-of-service attempt | Classifier identified DoS/DDoS pattern (100% confidence)
+[2026-04-04 13:16:10] [HIGH] Port Scan | 10.200.2.90 → 10.0.0.20 | conf=1.0 | Random Forest | action=IP Blocked | reason=Multiple ports probed in short time → reconnaissance activity | Classifier identified Port Scan pattern (100% confidence)
+[2026-04-04 13:16:12] [HIGH] Port Scan | 10.200.3.173 → 10.0.0.5 | conf=0.999 | Random Forest | action=IP Blocked | reason=Multiple ports probed in short time → reconnaissance activity | Classifier identified Port Scan pattern (100% confidence)
+[2026-04-04 13:16:14] [HIGH] Port Scan | 10.200.5.176 → 10.0.0.29 | conf=1.0 | Random Forest | action=IP Blocked | reason=Multiple ports probed in short time → reconnaissance activity | Classifier identified Port Scan pattern (100% confidence)
+[2026-04-04 13:16:23] [HIGH] DoS/DDoS | 172.16.3.41 → 10.0.0.46 | conf=1.0 | Random Forest | action=IP Blocked | reason=High packet rate with flood patterns → denial-of-service attempt | Classifier identified DoS/DDoS pattern (100% confidence)
+[2026-04-04 13:16:25] [HIGH] Port Scan | 10.200.1.241 → 10.0.0.11 | conf=1.0 | Random Forest | action=IP Blocked | reason=Multiple ports probed in short time → reconnaissance activity | Classifier identified Port Scan pattern (100% confidence)
+[2026-04-04 13:16:37] [LOW] Suspicious Activity | 192.168.1.95 → 10.0.0.32 | conf=0.522 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:16:45] [HIGH] DoS/DDoS | 172.16.1.130 → 10.0.0.3 | conf=1.0 | Random Forest | action=IP Blocked | reason=High packet rate with flood patterns → denial-of-service attempt | Classifier identified DoS/DDoS pattern (100% confidence)
+[2026-04-04 13:16:51] [HIGH] Brute Force | 203.0.113.175 → 10.0.0.44 | conf=1.0 | Random Forest | action=IP Blocked | reason=Repeated auth-port connections → credential guessing attack | Classifier identified Brute Force pattern (100% confidence)
+[2026-04-04 13:17:38] [LOW] Suspicious Activity | 192.168.1.229 → 10.0.0.12 | conf=0.543 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:19:17] [LOW] Suspicious Activity | 192.168.1.248 → 10.0.0.19 | conf=0.543 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:19:59] [LOW] Suspicious Activity | 192.168.1.240 → 10.0.0.37 | conf=0.553 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:20:23] [LOW] Suspicious Activity | 192.168.1.87 → 10.0.0.23 | conf=0.525 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:21:25] [LOW] Suspicious Activity | 192.168.1.231 → 10.0.0.23 | conf=0.516 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:09] [LOW] Suspicious Activity | 192.168.29.40 → 192.168.29.191 | conf=0.558 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:09] [LOW] Suspicious Activity | 192.168.29.40 → 192.168.29.191 | conf=0.558 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:32] [LOW] Suspicious Activity | 192.168.29.40 → 13.107.5.93 | conf=0.554 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:35] [LOW] Suspicious Activity | 192.168.29.40 → 162.159.140.229 | conf=0.526 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:38] [LOW] Suspicious Activity | 162.159.140.229 → 192.168.29.40 | conf=0.566 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:41] [LOW] Suspicious Activity | 192.168.29.40 → 162.159.140.229 | conf=0.521 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:43] [LOW] Suspicious Activity | 162.159.140.229 → 192.168.29.40 | conf=0.553 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:44] [LOW] Suspicious Activity | 192.168.29.40 → 184.34.126.28 | conf=0.566 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:47] [LOW] Suspicious Activity | 162.159.140.229 → 192.168.29.40 | conf=0.548 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:53] [LOW] Suspicious Activity | 192.168.29.40 → 162.159.140.229 | conf=0.547 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:23:56] [LOW] Suspicious Activity | 162.159.140.229 → 192.168.29.40 | conf=0.577 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:24:00] [LOW] Suspicious Activity | 162.159.140.229 → 192.168.29.40 | conf=0.504 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:24:02] [LOW] Suspicious Activity | 192.168.29.40 → 162.159.140.229 | conf=0.534 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:24:04] [LOW] Suspicious Activity | 162.159.140.229 → 192.168.29.40 | conf=0.508 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:09] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.537 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:10] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.551 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:11] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.53 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:13] [LOW] Suspicious Activity | 192.168.29.40 → 13.232.247.168 | conf=0.561 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:15] [LOW] Suspicious Activity | 13.232.247.168 → 192.168.29.40 | conf=0.503 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:16] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.552 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:16] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.558 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:16] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.646 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:16] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.573 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:16] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.575 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:16] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.577 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:17] [LOW] Suspicious Activity | 192.168.29.40 → 13.232.247.168 | conf=0.568 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:17] [LOW] Suspicious Activity | 192.168.29.40 → 13.232.247.168 | conf=0.544 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:17] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.566 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:17] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.563 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:18] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.513 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:18] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.519 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:18] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.556 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:18] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.591 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:21] [LOW] Suspicious Activity | 192.168.29.40 → 192.168.29.191 | conf=0.556 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:21] [LOW] Suspicious Activity | 192.168.29.40 → 192.168.29.191 | conf=0.55 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:22] [LOW] Suspicious Activity | 192.168.29.40 → 23.220.232.64 | conf=0.555 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:23] [LOW] Suspicious Activity | 192.168.29.40 → 43.205.29.79 | conf=0.578 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:25] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.682 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:27] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.566 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:27] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.763 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:27] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.762 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:28] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.762 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:28] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.764 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:28] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.764 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:29] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.544 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:29] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.562 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:29] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.539 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:29] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.558 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:30] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.573 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:30] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.541 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:31] [LOW] Suspicious Activity | 43.205.29.79 → 192.168.29.40 | conf=0.57 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:31] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.758 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:31] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.747 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:31] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.763 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:31] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.764 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:31] [LOW] Suspicious: DoS/DDoS | 192.168.29.40 → 43.205.29.79 | conf=0.761 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:53] [LOW] Suspicious Activity | 192.168.29.40 → 192.168.29.191 | conf=0.555 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-04 13:25:53] [LOW] Suspicious Activity | 192.168.29.40 → 192.168.29.191 | conf=0.572 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:26] [LOW] Suspicious Activity | 52.182.143.208 → 10.17.8.92 | conf=0.54 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:26] [LOW] Suspicious Activity | 98.90.216.81 → 10.17.8.92 | conf=0.53 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:27] [LOW] Suspicious Activity | 10.17.8.92 → 104.18.13.27 | conf=0.546 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:27] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.512 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:28] [LOW] Suspicious Activity | 10.17.8.92 → 23.64.59.123 | conf=0.527 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:29] [LOW] Suspicious Activity | 10.17.8.92 → 13.225.5.99 | conf=0.54 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:31] [LOW] Suspicious Activity | 10.17.8.92 → 104.18.50.184 | conf=0.529 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:33] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.541 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:34] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.512 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:34] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.509 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:34] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.542 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:35] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.509 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:35] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.542 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:35] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.542 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:35] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.512 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:35] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.509 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:35] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.509 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:35] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.509 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:36] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.509 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:36] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.509 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:36] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.509 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:36] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.509 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:36] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.509 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:37] [LOW] Suspicious Activity | 10.17.8.92 → 162.159.61.3 | conf=0.525 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:37] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.561 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:37] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.541 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:37] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.568 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:38] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.562 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:38] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.565 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:38] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.561 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:38] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.561 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:39] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.561 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:39] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.561 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:39] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.561 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:40] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.561 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:40] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.56 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:40] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.56 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:40] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.56 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:40] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.56 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:41] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.566 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:41] [LOW] Suspicious: DoS/DDoS | 199.232.213.133 → 10.17.8.92 | conf=0.631 | Hybrid (IF anomaly + RF hints DoS/DDoS) | action=Logged | reason=High packet rate with flood patterns → denial-of-service attempt | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:41] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.525 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:41] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.527 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:41] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.518 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:42] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.213.133 | conf=0.518 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:42] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.546 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:42] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.564 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:42] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.532 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:42] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.531 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:42] [LOW] Suspicious Activity | 199.232.213.133 → 10.17.8.92 | conf=0.564 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:45] [LOW] Suspicious Activity | 10.17.8.92 → 23.11.39.161 | conf=0.587 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:46] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.210.172 | conf=0.537 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:46] [LOW] Suspicious Activity | 10.17.8.92 → 23.11.39.161 | conf=0.522 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:51] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.210.172 | conf=0.539 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:51] [LOW] Suspicious Activity | 10.17.8.92 → 204.79.197.203 | conf=0.523 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:53] [LOW] Suspicious Activity | 10.17.8.92 → 142.250.70.99 | conf=0.561 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:53] [LOW] Suspicious Activity | 10.17.8.92 → 23.37.85.99 | conf=0.511 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:53] [LOW] Suspicious Activity | 10.17.8.92 → 23.11.39.161 | conf=0.593 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:53] [LOW] Suspicious Activity | 10.17.8.92 → 199.232.210.172 | conf=0.557 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:59] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.5.27 | conf=0.525 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:59] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.6.13 | conf=0.528 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:59] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.7.4 | conf=0.534 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:59] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.5.76 | conf=0.526 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:55:59] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.6.18 | conf=0.534 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:00] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.14.3 | conf=0.538 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:00] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.2.102 | conf=0.522 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:00] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.5.255 | conf=0.525 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:00] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.2.111 | conf=0.522 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:01] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.4.201 | conf=0.522 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:01] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.16.73 | conf=0.531 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:01] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.2.66 | conf=0.548 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:01] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.1.179 | conf=0.53 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:02] [LOW] Suspicious Activity | 10.17.8.92 → 216.137.52.79 | conf=0.628 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:04] [LOW] Suspicious Activity | 10.17.8.92 → 10.17.5.255 | conf=0.553 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:05] [LOW] Suspicious Activity | 10.17.8.92 → 103.10.5.131 | conf=0.537 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:05] [LOW] Suspicious Activity | 10.17.8.92 → 20.198.2.181 | conf=0.551 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:06] [LOW] Suspicious Activity | 10.17.8.92 → 20.190.145.141 | conf=0.545 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:09] [LOW] Suspicious Activity | 20.72.205.209 → 10.17.8.92 | conf=0.548 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:10] [LOW] Suspicious Activity | 10.17.8.92 → 20.72.205.209 | conf=0.527 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:13] [LOW] Suspicious Activity | 10.17.8.92 → 216.137.52.79 | conf=0.606 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:13] [LOW] Suspicious Activity | 10.17.8.92 → 54.245.152.225 | conf=0.567 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:13] [LOW] Suspicious Activity | 10.17.8.92 → 54.245.152.225 | conf=0.552 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:14] [LOW] Suspicious Activity | 10.17.8.92 → 216.137.52.79 | conf=0.515 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:15] [LOW] Suspicious Activity | 10.17.8.92 → 35.155.108.0 | conf=0.563 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:15] [LOW] Suspicious Activity | 10.17.8.92 → 35.155.108.0 | conf=0.531 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:16] [LOW] Suspicious Activity | 10.17.8.92 → 54.191.236.175 | conf=0.553 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:16] [LOW] Suspicious Activity | 10.17.8.92 → 54.191.236.175 | conf=0.533 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:16] [LOW] Suspicious Activity | 10.17.8.92 → 142.251.221.227 | conf=0.558 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:19] [LOW] Suspicious Activity | 10.17.8.92 → 20.189.173.7 | conf=0.571 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:19] [LOW] Suspicious Activity | 10.17.8.92 → 20.189.173.7 | conf=0.567 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:20] [LOW] Suspicious Activity | 10.17.8.92 → 20.189.173.7 | conf=0.567 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:20] [LOW] Suspicious Activity | 10.17.8.92 → 20.189.173.7 | conf=0.567 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:20] [LOW] Suspicious Activity | 10.17.8.92 → 16.147.167.133 | conf=0.552 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:21] [LOW] Suspicious Activity | 10.17.8.92 → 16.147.167.133 | conf=0.528 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:21] [LOW] Suspicious Activity | 10.17.8.92 → 20.189.173.7 | conf=0.508 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:21] [LOW] Suspicious Activity | 10.17.8.92 → 20.189.173.7 | conf=0.508 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:21] [LOW] Suspicious Activity | 10.17.8.92 → 20.189.173.7 | conf=0.508 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:21] [LOW] Suspicious Activity | 10.17.8.92 → 20.189.173.7 | conf=0.508 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:23] [LOW] Suspicious Activity | 10.17.8.92 → 3.174.255.16 | conf=0.582 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:25] [LOW] Suspicious Activity | 10.17.8.92 → 34.234.128.160 | conf=0.581 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:28] [LOW] Suspicious Activity | 10.17.8.92 → 54.191.236.175 | conf=0.553 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:29] [LOW] Suspicious Activity | 10.17.8.92 → 54.191.236.175 | conf=0.531 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:45] [LOW] Suspicious Activity | 10.17.8.92 → 16.147.167.133 | conf=0.551 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:56:46] [LOW] Suspicious Activity | 10.17.8.92 → 16.147.167.133 | conf=0.519 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:09] [LOW] Suspicious Activity | 10.17.8.92 → 40.74.79.222 | conf=0.575 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:12] [LOW] Suspicious Activity | 10.17.8.92 → 150.171.28.10 | conf=0.644 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:12] [LOW] Suspicious Activity | 10.17.8.92 → 150.171.28.10 | conf=0.531 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:12] [LOW] Suspicious Activity | 10.17.8.92 → 150.171.28.10 | conf=0.535 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:12] [LOW] Suspicious Activity | 10.17.8.92 → 150.171.28.10 | conf=0.534 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:12] [LOW] Suspicious Activity | 10.17.8.92 → 150.171.28.10 | conf=0.533 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:12] [LOW] Suspicious Activity | 150.171.28.10 → 10.17.8.92 | conf=0.609 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:13] [LOW] Suspicious Activity | 10.17.8.92 → 104.91.59.97 | conf=0.539 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:15] [LOW] Suspicious Activity | 10.17.8.92 → 13.107.13.93 | conf=0.541 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:16] [LOW] Suspicious Activity | 10.17.8.92 → 40.74.79.222 | conf=0.506 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:16] [LOW] Suspicious Activity | 40.74.79.222 → 10.17.8.92 | conf=0.52 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:17] [LOW] Suspicious Activity | 10.17.8.92 → 23.37.86.104 | conf=0.571 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:18] [LOW] Suspicious Activity | 10.17.8.92 → 23.37.86.104 | conf=0.606 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:19] [LOW] Suspicious Activity | 10.17.8.92 → 40.74.79.222 | conf=0.546 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:21] [LOW] Suspicious Activity | 10.17.8.92 → 74.178.76.44 | conf=0.559 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
+[2026-04-06 09:57:23] [LOW] Suspicious Activity | 10.17.8.92 → 150.171.22.17 | conf=0.562 | Isolation Forest (anomaly) | action=Logged | reason=Anomalous traffic pattern does not match known profiles | Anomaly detector flagged unusual behavior, classifier uncertain
