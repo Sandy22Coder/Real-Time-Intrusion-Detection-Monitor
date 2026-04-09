@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+logs/*.log
+logs/*.jsonl
+logs/blocked_ips.json
+!logs/.gitkeep
+
+.vscode/
+.idea/

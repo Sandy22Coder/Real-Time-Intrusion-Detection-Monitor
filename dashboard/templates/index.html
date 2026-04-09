@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Network IDS — Real-Time Dashboard</title>
+    <meta name="description" content="AI-Based Network Intrusion Detection & Prevention System with real-time attack classification and auto-response.">
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<!-- ── Header with System Status ─────────────────────────────────────── -->
+<header class="header">
+    <h1>🛡️ AI Network IDS — Real-Time Monitor</h1>
+    <div class="header-right">
+        <div class="system-status" id="system-status">
+            <span class="status-indicator" id="status-indicator"></span>
+            <span id="status-text">Initializing...</span>
+        </div>
+        <div class="status-badge">
+            <span class="status-dot"></span>
+            <span id="uptime">Monitoring...</span>
+        </div>
+    </div>
+</header>
+
+<!-- ── System Alert Banner (shown when under attack) ─────────────────── -->
+<div class="alert-banner" id="alert-banner" style="display:none;">
+    <span class="alert-banner-icon">🚨</span>
+    <span id="alert-banner-text">System under attack — auto-response active</span>
+</div>
+
+<!-- ── Main Content ──────────────────────────────────────────────────── -->
+<div class="container">
+
+    <!-- Stats Cards -->
+    <section class="stats-grid" id="stats-grid">
+        <div class="stat-card" id="card-packets">
+            <div class="label">Total Packets</div>
+            <div class="value" id="stat-packets">0</div>
+        </div>
+        <div class="stat-card" id="card-flows">
+            <div class="label">Flows Analyzed</div>
+            <div class="value" id="stat-flows">0</div>
+        </div>
+        <div class="stat-card" id="card-attacks">
+            <div class="label">Attacks Detected</div>
+            <div class="value" id="stat-attacks">0</div>
+        </div>
+        <div class="stat-card" id="card-normal">
+            <div class="label">Normal Traffic</div>
+            <div class="value" id="stat-normal">0</div>
+        </div>
+        <div class="stat-card" id="card-blocked">
+            <div class="label">IPs Blocked</div>
+            <div class="value" id="stat-blocked">0</div>
+        </div>
+        <div class="stat-card" id="card-uptime">
+            <div class="label">System Uptime</div>
+            <div class="value" id="stat-uptime">0s</div>
+        </div>
+    </section>
+
+    <!-- Charts Row -->
+    <section class="charts-grid">
+        <div class="chart-card">
+            <h3>📈 Traffic Over Time</h3>
+            <div class="chart-container">
+                <canvas id="trafficChart"></canvas>
+            </div>
+        </div>
+        <div class="chart-card">
+            <h3>🎯 Attack Classification</h3>
+            <div class="chart-container">
+                <canvas id="attackChart"></canvas>
+            </div>
+        </div>
+    </section>
+
+    <!-- Bottom Grid: Top Attackers + Blocked IPs -->
+    <section class="bottom-grid">
+
+        <!-- Top Attacking IPs -->
+        <div class="panel-card" id="panel-attackers">
+            <h3>🏴‍☠️ Top Attacking IPs</h3>
+            <div class="panel-body">
+                <table class="mini-table">
+                    <thead>
+                        <tr><th>Rank</th><th>IP Address</th><th>Attacks</th></tr>
+                    </thead>
+                    <tbody id="attackers-tbody">
+                        <tr><td colspan="3" class="no-data">No attackers yet</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Blocked IPs -->
+        <div class="panel-card" id="panel-blocked">
+            <h3>
+                🚫 Blocked IPs
+                <span class="blocked-count-badge" id="blocked-count">0</span>
+            </h3>
+            <div class="panel-body">
+                <table class="mini-table">
+                    <thead>
+                        <tr><th>IP Address</th><th>Attack Type</th><th>Mode</th><th>Blocked At</th><th>Hits</th></tr>
+                    </thead>
+                    <tbody id="blocked-tbody">
+                        <tr><td colspan="5" class="no-data">No blocked IPs</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </section>
+
+    <!-- Alerts Table -->
+    <section class="alerts-section">
+        <h3>
+            🚨 Recent Alerts
+            <span class="alert-count-badge" id="alert-count">0</span>
+        </h3>
+        <div class="alerts-body">
+            <table class="alerts-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Time</th>
+                        <th>Severity</th>
+                        <th>Attack Type</th>
+                        <th>Source IP</th>
+                        <th>Confidence</th>
+                        <th>Action</th>
+                        <th>Reason</th>
+                    </tr>
+                </thead>
+                <tbody id="alerts-tbody">
+                    <tr><td colspan="8" class="no-data">No alerts yet — monitoring in progress...</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </section>
+
+</div>
+
+<script>
+// ── Chart.js Configuration ──────────────────────────────────────────
+
+// Traffic line chart
+const previousStats = {
+    total_packets: 0,
+    total_flows: 0,
+    total_attacks: 0,
+    total_normal: 0,
+    total_blocked: 0,
+};
+
+const previousRows = {
+    alerts: new Set(),
+    attackers: new Set(),
+    blocked: new Set(),
+};
+
+function animateValue(el, start, end, duration = 700, formatter = (v) => v.toLocaleString()) {
+    if (!el) return;
+    const startTime = performance.now();
+    const step = (now) => {
+        const progress = Math.min((now - startTime) / duration, 1);
+        const eased = 1 - Math.pow(1 - progress, 3);
+        const value = start + ((end - start) * eased);
+        el.textContent = formatter(value);
+        if (progress < 1) requestAnimationFrame(step);
+    };
+    requestAnimationFrame(step);
+}
+
+function stampNewRows(selector) {
+    requestAnimationFrame(() => {
+        document.querySelectorAll(selector).forEach((row, index) => {
+            row.style.animationDelay = (index * 35) + 'ms';
+            row.classList.add('row-reveal');
+        });
+    });
+}
+
+const trafficCtx = document.getElementById('trafficChart').getContext('2d');
+const trafficChart = new Chart(trafficCtx, {
+    type: 'line',
+    data: {
+        labels: [],
+        datasets: [
+            {
+                label: 'Total Flows',
+                data: [],
+                borderColor: '#6366f1',
+                backgroundColor: 'rgba(99, 102, 241, 0.1)',
+                fill: true,
+                tension: 0.4,
+                pointRadius: 2,
+            },
+            {
+                label: 'Attacks',
+                data: [],
+                borderColor: '#ef4444',
+                backgroundColor: 'rgba(239, 68, 68, 0.1)',
+                fill: true,
+                tension: 0.4,
+                pointRadius: 2,
+            },
+            {
+                label: 'Normal',
+                data: [],
+                borderColor: '#10b981',
+                backgroundColor: 'rgba(16, 185, 129, 0.1)',
+                fill: true,
+                tension: 0.4,
+                pointRadius: 2,
+            }
+        ]
+    },
+    options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: { duration: 400 },
+        scales: {
+            x: {
+                grid: { color: 'rgba(255,255,255,0.05)' },
+                ticks: { color: '#94a3b8', maxTicksLimit: 10 }
+            },
+            y: {
+                grid: { color: 'rgba(255,255,255,0.05)' },
+                ticks: { color: '#94a3b8' },
+                beginAtZero: true
+            }
+        },
+        plugins: {
+            legend: { labels: { color: '#e2e8f0' } }
+        }
+    }
+});
+
+// Attack classification doughnut chart
+const attackCtx = document.getElementById('attackChart').getContext('2d');
+const attackChart = new Chart(attackCtx, {
+    type: 'doughnut',
+    data: {
+        labels: [],
+        datasets: [{
+            data: [],
+            backgroundColor: [
+                '#ef4444', '#f59e0b', '#6366f1', '#06b6d4',
+                '#8b5cf6', '#ec4899', '#10b981', '#f97316',
+            ],
+            borderColor: '#0a0e1a',
+            borderWidth: 2
+        }]
+    },
+    options: {
+        responsive: true,
+        maintainAspectRatio: false,
+        animation: { duration: 400 },
+        plugins: {
+            legend: {
+                position: 'bottom',
+                labels: { color: '#e2e8f0', padding: 12, font: { size: 11 } }
+            }
+        }
+    }
+});
+
+
+// ── Data Fetching ───────────────────────────────────────────────────
+
+function formatUptime(s) {
+    const h = Math.floor(s / 3600);
+    const m = Math.floor((s % 3600) / 60);
+    const sec = s % 60;
+    if (h > 0) return h + 'h ' + m + 'm';
+    if (m > 0) return m + 'm ' + sec + 's';
+    return sec + 's';
+}
+
+function formatNumber(n) {
+    return n.toLocaleString();
+}
+
+// Badge color mapping for attack types
+function getAttackBadgeClass(label) {
+    if (label.includes('DoS') || label.includes('DDoS')) return 'badge-dos';
+    if (label.includes('Port Scan')) return 'badge-scan';
+    if (label.includes('Brute Force')) return 'badge-brute';
+    if (label.includes('Web')) return 'badge-web';
+    if (label.includes('Suspicious')) return 'badge-anomaly';
+    if (label.includes('Anomaly')) return 'badge-anomaly';
+    return 'badge-default';
+}
+
+// Severity badge
+function getSeverityBadge(severity) {
+    const colors = {
+        'critical': 'sev-critical',
+        'high':     'sev-high',
+        'medium':   'sev-medium',
+        'low':      'sev-low',
+    };
+    const cls = colors[severity] || 'sev-low';
+    const label = (severity || 'low').toUpperCase();
+    return '<span class="severity-badge ' + cls + '">' + label + '</span>';
+}
+
+async function fetchStats() {
+    try {
+        const res = await fetch('/api/stats');
+        const data = await res.json();
+        animateValue(document.getElementById('stat-packets'), previousStats.total_packets, data.total_packets, 800, (v) => formatNumber(Math.round(v)));
+        animateValue(document.getElementById('stat-flows'), previousStats.total_flows, data.total_flows, 800, (v) => formatNumber(Math.round(v)));
+        animateValue(document.getElementById('stat-attacks'), previousStats.total_attacks, data.total_attacks, 850, (v) => formatNumber(Math.round(v)));
+        animateValue(document.getElementById('stat-normal'), previousStats.total_normal, data.total_normal, 850, (v) => formatNumber(Math.round(v)));
+        animateValue(document.getElementById('stat-blocked'), previousStats.total_blocked, data.total_blocked, 850, (v) => formatNumber(Math.round(v)));
+        document.getElementById('stat-uptime').textContent = formatUptime(data.uptime_seconds);
+        document.getElementById('uptime').textContent = 'Uptime: ' + formatUptime(data.uptime_seconds);
+        previousStats.total_packets = data.total_packets;
+        previousStats.total_flows = data.total_flows;
+        previousStats.total_attacks = data.total_attacks;
+        previousStats.total_normal = data.total_normal;
+        previousStats.total_blocked = data.total_blocked;
+
+        // Update attack chart
+        const types = data.attack_types;
+        const labels = Object.keys(types);
+        const values = Object.values(types);
+        if (labels.length > 0) {
+            attackChart.data.labels = labels;
+            attackChart.data.datasets[0].data = values;
+            attackChart.update('none');
+        }
+    } catch (e) { /* ignore */ }
+}
+
+async function fetchSystemStatus() {
+    try {
+        const res = await fetch('/api/system_status');
+        const data = await res.json();
+        const el = document.getElementById('system-status');
+        const indicator = document.getElementById('status-indicator');
+        const text = document.getElementById('status-text');
+        const banner = document.getElementById('alert-banner');
+
+        text.textContent = data.status + ' (' + data.attacks_last_30s + ' attacks/30s)';
+
+        el.className = 'system-status status-' + data.level;
+        indicator.className = 'status-indicator si-' + data.level;
+
+        if (data.level === 'critical') {
+            banner.style.display = 'flex';
+            banner.className = 'alert-banner';
+            document.getElementById('alert-banner-text').textContent =
+                'SYSTEM UNDER ATTACK — ' + data.attacks_last_30s + ' attacks in last 30s — ' + data.total_blocked + ' IPs blocked';
+        } else if (data.level === 'warning') {
+            banner.style.display = 'flex';
+            banner.className = 'alert-banner alert-warning';
+            document.getElementById('alert-banner-text').textContent =
+                'Elevated threat level — ' + data.attacks_last_30s + ' attacks in last 30s';
+        } else {
+            banner.style.display = 'none';
+        }
+    } catch (e) { /* ignore */ }
+}
+
+async function fetchAlerts() {
+    try {
+        const res = await fetch('/api/alerts');
+        const alerts = await res.json();
+        document.getElementById('alert-count').textContent = alerts.length;
+
+        const tbody = document.getElementById('alerts-tbody');
+        if (alerts.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="8" class="no-data">No alerts yet — monitoring in progress...</td></tr>';
+            return;
+        }
+
+        const newIds = new Set(alerts.map(a => String(a.id)));
+        tbody.innerHTML = alerts.map(a => {
+            const badgeClass = getAttackBadgeClass(a.label);
+            const actionClass = a.action_taken === 'IP Blocked' ? 'action-blocked' : 'action-logged';
+            const explanation = a.explanation || '';
+            const shortExplanation = explanation.length > 60 ? explanation.substring(0, 57) + '...' : explanation;
+            const isNew = !previousRows.alerts.has(String(a.id));
+            return '<tr' + (isNew ? ' class="fresh-row"' : '') + '>' +
+                '<td>' + a.id + '</td>' +
+                '<td>' + a.timestamp + '</td>' +
+                '<td>' + getSeverityBadge(a.severity) + '</td>' +
+                '<td><span class="attack-badge ' + badgeClass + '">' + a.label + '</span></td>' +
+                '<td class="ip-cell">' + a.src_ip + '</td>' +
+                '<td><span class="confidence-bar"><span class="confidence-fill" style="width:' +
+                    (a.confidence * 100).toFixed(0) + '%"></span></span> ' +
+                    (a.confidence * 100).toFixed(1) + '%</td>' +
+                '<td><span class="action-badge ' + actionClass + '">' + a.action_taken + '</span></td>' +
+                '<td class="reason-cell" title="' + explanation + '">' + shortExplanation + '</td>' +
+            '</tr>';
+        }).join('');
+        previousRows.alerts = newIds;
+        stampNewRows('#alerts-tbody .fresh-row');
+    } catch (e) { /* ignore */ }
+}
+
+async function fetchTraffic() {
+    try {
+        const res = await fetch('/api/traffic');
+        const data = await res.json();
+        if (data.length === 0) return;
+
+        trafficChart.data.labels = data.map(d => d.time);
+        trafficChart.data.datasets[0].data = data.map(d => d.flows);
+        trafficChart.data.datasets[1].data = data.map(d => d.attacks);
+        trafficChart.data.datasets[2].data = data.map(d => d.normal);
+        trafficChart.update('none');
+    } catch (e) { /* ignore */ }
+}
+
+async function fetchTopAttackers() {
+    try {
+        const res = await fetch('/api/top_attackers');
+        const data = await res.json();
+        const tbody = document.getElementById('attackers-tbody');
+        if (data.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="3" class="no-data">No attackers yet</td></tr>';
+            return;
+        }
+        const newKeys = new Set(data.map(a => a.ip));
+        tbody.innerHTML = data.map((a, i) =>
+            '<tr' + (!previousRows.attackers.has(a.ip) ? ' class="fresh-row"' : '') + '><td>' + (i + 1) + '</td><td class="ip-cell">' + a.ip + '</td>' +
+            '<td><span class="hit-count">' + a.count + '</span></td></tr>'
+        ).join('');
+        previousRows.attackers = newKeys;
+        stampNewRows('#attackers-tbody .fresh-row');
+    } catch (e) { /* ignore */ }
+}
+
+async function fetchBlockedIPs() {
+    try {
+        const res = await fetch('/api/blocked_ips');
+        const data = await res.json();
+        document.getElementById('blocked-count').textContent = data.length;
+        const tbody = document.getElementById('blocked-tbody');
+        if (data.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="5" class="no-data">No blocked IPs</td></tr>';
+            return;
+        }
+        const newKeys = new Set(data.map(b => b.ip + '|' + b.timestamp));
+        tbody.innerHTML = data.map(b =>
+            '<tr' + (!previousRows.blocked.has(b.ip + '|' + b.timestamp) ? ' class="fresh-row"' : '') + '><td class="ip-cell">' + b.ip + '</td>' +
+            '<td><span class="attack-badge badge-default">' + b.attack_type + '</span></td>' +
+            '<td><span class="action-badge ' + (b.enforced ? 'action-blocked' : 'action-logged') + '">' +
+                (b.enforced ? 'Firewall' : 'Contained') + '</span></td>' +
+            '<td>' + b.timestamp + '</td>' +
+            '<td><span class="hit-count">' + b.hit_count + '</span></td></tr>'
+        ).join('');
+        previousRows.blocked = newKeys;
+        stampNewRows('#blocked-tbody .fresh-row');
+    } catch (e) { /* ignore */ }
+}
+
+// ── Refresh loop (every 2 seconds) ──────────────────────────────────
+function refreshAll() {
+    fetchStats();
+    fetchSystemStatus();
+    fetchAlerts();
+    fetchTraffic();
+    fetchTopAttackers();
+    fetchBlockedIPs();
+}
+
+refreshAll();
+setInterval(refreshAll, 2000);
+</script>
+</body>
+</html>
